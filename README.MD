@@ -1,0 +1,2 @@
+#Sonic Heroes 3DS
+Hola, este proyecto no tiene ni un pelo de seriedad, por lo que si queda botado un dia no me hago responsable, por lo mismo decidi dejarlo totalmente abierto a cualquiera que quisiera retormarlo o ver como funciona, de momento solo tengo una pantalla de inicio re buggeada, quiero comenzar por la UI porque me hace ilusion verla correr en mi 3DS
